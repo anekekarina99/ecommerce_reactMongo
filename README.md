@@ -1,2 +1,2 @@
-# weatherApp_reactMongo
-This is weatherApp, use react and mongo(temporaliy)
+# PortofolioApp_reactMongo
+This is portofolio, use react and mongo(temporaliy)
